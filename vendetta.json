@@ -1,0 +1,151 @@
+
+{
+    "name": "hueTheme",
+    "description": "woof",
+    "authors": [
+      {
+        "name": "Hue"
+      }
+    ],
+    "semanticColors": {
+      "BACKGROUND_ACCENT": [
+      "#"
+      ],
+      "BACKGROUND_MENTIONED": [
+      "#"
+      ],   
+      "BACKGROUND_MENTIONED_HOVER": [   
+      "#"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT": [     
+      "#"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
+      "#"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+      "#"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+      "#"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+      "#"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+      "#"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+      "#"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+      "#"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+      "#"
+      ],
+      "BACKGROUND_PRIMARY": [
+      "#"
+      ],
+      "BACKGROUND_SECONDARY": [
+      "#"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+      "#"
+      ],
+      "BACKGROUND_TERTIARY": [
+      "#"
+      ],
+      "CHANNEL_ICON": [
+      "#"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#"
+      ],
+      "CHAT_BACKGROUND": [
+      "#"
+      ],
+      "HEADER_PRIMARY": [
+      "#"
+      ],
+      "HEADER_SECONDARY": [
+      "#"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#"
+      ],
+      "MENTION_BACKGROUND": [
+      "#"
+      ],
+      "MENTION_FOREGROUND": [
+      "#"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#"
+      ],
+ "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+      "#"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+      "#"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+      "#"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+      "#"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+      "#"
+      ],
+      "TEXT_DANGER": [
+      "#"
+      ],
+      "TEXT_LINK": [
+      "#"
+      ],
+      "TEXT_MUTED": [
+      "#"
+      ],
+      "TEXT_NORMAL": [
+      "#"
+      ],
+      "TEXT_PRIMARY": [
+      "#"
+      ],
+      "TEXT_SECONDARY": [
+      "#"
+      ]
+},
+    "plus":{
+       "version":"0",
+       "icons":{
+          "ic_new_pins":"#f38ba8",
+          "StatusStreaming": "#cba6f7",
+          "StatusMobileOnline": "#a6e3a1",
+          "StatusIdle": "#f9e2af",
+          "StatusDND": "#f38ba8",
+          "StatusOffline": "#9399b2",
+          "StatusOnline": "#a6e3a1"
+ }
+},
+    "spec": 2
+}
